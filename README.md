@@ -51,5 +51,5 @@ acc_knn = accuracy_score(Y, pred_knn)
 acc_randfor = accuracy_score(Y, pred_randfor)
 acc_SVC = accuracy_score(Y, pred_SVC)
 ```
-The results are as follows, and we can see which machine learning methods were the most accurate in classifiying gender.
+The results are as follows, and we can see which machine learning methods were the most accurate in classifiying gender.  
 ![](~/Desktop/genderclass.png)
