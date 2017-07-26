@@ -52,4 +52,4 @@ acc_randfor = accuracy_score(Y, pred_randfor)
 acc_SVC = accuracy_score(Y, pred_SVC)
 ```
 The results are as follows, and we can see which machine learning methods were the most accurate in classifiying gender.
-![](~/Desktop/Screen Shot 2017-07-26 at 2.56.40 PM.png)
+![](~/Desktop/genderclass.png)
